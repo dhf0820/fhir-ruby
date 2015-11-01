@@ -1,0 +1,21 @@
+{
+  "resourceType": "Practitioner",
+  "id": "1234",
+  "meta": {
+    "versionId": "180609",
+    "lastUpdated": "2015-09-30T14:35:53.396+00:00"
+  },
+  "text": {
+    "status": "generated",
+    "div": "<div>Practitioner: John Smith</div>"
+  },
+  "name": {
+    "use": "usual",
+    "family": [
+      "Smith"
+    ],
+    "given": [
+      "John"
+    ]
+  }
+}
