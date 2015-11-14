@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
-
-gem 'fhir', path: File.expand_path('../../',__FILE__)
+source 'https://rsDaEWcuLMfDNieLNzx9@gem.fury.io/vertisoft/'
+gem 'fhir'
+#gem 'fhir', path: File.expand_path('../../',__FILE__)
 gem 'rspec'
 gem 'nokogiri'
-gem 'activerecord', "~> 3.2.0"
+gem 'activerecord' #, "~> 3.2.0"
 gem 'activesupport'
 gem 'pg'
